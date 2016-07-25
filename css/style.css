@@ -943,10 +943,16 @@
 		position: relative;
 		margin: 0;
 		text-align: center;
-		padding: 4em 0 8em 0;
+		padding: 2em 0 6em 0;
 		box-shadow: inset 0 1px 0 0 #e6e6e6;
 	}
 	
+        #footer .contactus
+		{
+			font-size: 0.8em;
+			color: #aaa;
+		}
+
 		#footer .copyright
 		{
 			margin-top: 3em;
