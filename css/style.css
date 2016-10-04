@@ -818,7 +818,7 @@
 		position: relative;
 		margin: 0;
 		background-image:			url('../images/header.jpg');
-		background-size:			auto,								cover;
+		background-size:			cover;
 		background-position:		top left,							center center;
 		background-repeat:			repeat,								no-repeat;
 		padding: 14em 0 14em 0;
